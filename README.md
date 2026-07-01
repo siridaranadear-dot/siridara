@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img width="400" height="460" alt="ChatGPT Image 24 มิ ย  2569 14_40_25" src="https://github.com/user-attachments/assets/dd5f5e09-c895-48db-a7eb-0ae30b08410c" />
+  <img width="394" height="460" alt="67219010063" src="https://github.com/user-attachments/assets/8e5d882c-fda9-4474-a496-1d9153ed038c" />
 </div>
 
 <h1>
